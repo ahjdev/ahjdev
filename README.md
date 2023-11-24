@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=2500&pause=1000&color=F7F7F7&random=false&width=750&height=44&lines=HI+👋+I+am+AhJ+20+y.o+Student+Electrical)](https://github.com/ahjdev)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=2500&pause=1000&color=F7F7F7&random=false&width=750&height=44&lines=HI+👋+I+am+AhJ+20+y.o+Student+Electrical)]()
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/ahjdev)
 
 [![](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/madbyte)
