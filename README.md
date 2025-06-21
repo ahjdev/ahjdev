@@ -18,7 +18,7 @@
   <summary>
     <h2>⭐️ My Favorite Repo</h2>
   </summary>
-  <a href="https://github.com/reymon/tg-keyboard"><img alt="My Project" src="https://github-readme-stats.vercel.app/api/pin/?username=reymontg&repo=tg-keyboard&theme=radical" height="125px"/></a>
+  <a href="https://github.com/reymontg/tg-keyboard"><img alt="My Project" src="https://github-readme-stats.vercel.app/api/pin/?username=reymontg&repo=tg-keyboard&theme=radical" height="125px"/></a>
   <a href="https://github.com/ahjdev/php-tag-maker"><img alt="My Project" src="https://github-readme-stats.vercel.app/api/pin/?username=ahjdev&repo=php-tag-maker&theme=radical" height="125px"/></a>
   <a href="https://github.com/ahjdev/amphp-SQLite3"><img alt="My Project" src="https://github-readme-stats.vercel.app/api/pin/?username=ahjdev&repo=amphp-SQLite3&theme=radical" height="125px"/></a>
 </details>
